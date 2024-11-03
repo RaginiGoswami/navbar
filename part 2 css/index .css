@@ -1,28 +1,30 @@
-
-
-
-  *{
-    
+*{
+    margin: 0px;
     padding: 0px;
-margin: 0px;
-color: white;
-
 }
 #navbar{
-
     height: 60px;
-    background-color: #0f1111;
-}
-button{
-
-    background-color: #f08804;
+    background-color: rgb(27, 20, 20);
 }
 #logo{
     font-style: italic;
-    color: brown;
-    font-size: 30px;
+    font-size: 50px;
+    color: rgb(175, 92, 174);
+
 }
 a{
-text-decoration: none;
     margin: 80px;
 }
+
+button{
+  
+    background-color: rgb(201, 155, 36);
+}
+
+img{
+   
+    height: 900px;
+
+}
+
+
